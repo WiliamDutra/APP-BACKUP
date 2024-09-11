@@ -1,0 +1,8 @@
+{
+  "host": "192.168.10.200",
+  "port": 5432,
+  "database": "PgMissio",
+  "user": "postgres",
+  "password": "postgres",
+  "backupDirectory": "C:\\Users\\Wiliam\\Videos"
+}
